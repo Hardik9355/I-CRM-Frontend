@@ -98,7 +98,7 @@ const AddDrawer = ({
                 htmlFor="customerDisplayName"
                 className="mb-2 block text-sm font-medium text-gray-900 dark:text-white"
               >
-                <span className="text-lg text-red-500">*</span>Display Name
+                <span className="text-lg text-red-500">*</span>Display  Name
               </label>
               <input
                 type="text"
